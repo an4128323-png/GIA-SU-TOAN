@@ -1,0 +1,7 @@
+{
+  "name": "Mèo Toán 8 – Gia sư AI",
+  "description": "Ứng dụng gia sư AI giúp học sinh lớp 8 học Toán, giải bài tập và chat với AI, với giao diện thân thiện và hỗ trợ giải toán bằng văn bản hoặc hình ảnh.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
