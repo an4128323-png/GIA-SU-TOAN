@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import HomeTab from './components/HomeTab';
-import LearnTab from './components/LearnTab';
+import { getMathAdvice, generateQuiz, speakText, searchLatestExams } from './geminiService';
 import ChatTab from './components/ChatTab';
 import ProfileTab from './components/ProfileTab';
 
